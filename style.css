@@ -5,10 +5,15 @@
 }
 
 .main_box{
-    background-image:url("photo.jpg");
+     background-image:url("photo.jpg");   /*Applying Background image */
 height:100vh;
 background-size:cover;
 }
+
+
+
+
+
 .btn_one{
     color:white;
     font-size:30px;
